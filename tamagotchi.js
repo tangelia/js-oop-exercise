@@ -41,10 +41,13 @@ let newToy6 = new Tamagotchi("Imp","Charles")
 
 //test out your Tamagotchies below via console.logs
 
-// console.log(newToy1);
-// console.log(newToy2);
-// console.log(newToy3);
-// console.log(newToy4);
+console.log(newToy1);
+console.log(newToy2);
+console.log(newToy3);
+console.log(newToy4);
+console.log(newToy5);
+console.log(newToy6);
+
 
 
 newToy1.cry();
